@@ -4,7 +4,7 @@
 </a>
  <img src="https://visitor-badge.glitch.me/badge?page_id=iovanb.iovanb" alt="visitor badge"/>
 </br>
-</br>
+
 - 🔭 I’m a .NET Developer </br>
 - 🌱 I’m currently learning and improving my skills in C#, Typescript and Angular</br>
 - 👯 I’m looking to collaborate with .NET projects</br>
