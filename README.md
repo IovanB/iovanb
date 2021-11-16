@@ -11,14 +11,11 @@
 - ⚡ Fun fact: I'm still addicted to Overwatch</br>
 
 ### My Github Status
-
-
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iovanb&layout=compact&theme=dracula&hide_border=true" />
-
-[![Iovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iovanb&show_icons=true&theme=dracula&hide_border=true)](https://github.com/iovanb/github-readme-stats)
-
-
+<div align="center">
+<img  height=160em src="https://github-readme-stats.vercel.app/api?username=iovanb&show_icons=true&theme=dracula&hide_border=true" />
+<img  height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=iovanb&layout=compact&theme=dracula&hide_border=true" />
+</div>
 
 
 
