@@ -8,7 +8,7 @@ I'm a .NET Developer with over 4 years of experience. I have worked on diverse p
 
 * 🌍  I'm based in Lisbon
 * ✉️  You can contact me at [iovanbarros@gmail.com](mailto:iovanbarros@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I don\`t like hot dogs
 
